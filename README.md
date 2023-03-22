@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     <h3 align="center">Tools I use at work</h3>
     <div display="flex">
         <img src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=Apache%20Kafka&logoColor=white" />
-        <imag src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
         
     </div>    
 </div>
