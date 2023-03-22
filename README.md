@@ -27,10 +27,18 @@ Here are some ideas to get you started:
 
     
 <div align="center">
-    <a href="https://www.linkedin.com/in/leonardogrig/">
+    <a href="https://www.linkedin.com/in/eduardaborg/">
         <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </div>
+
+<div align="center">
+    <h3 align="center">Tools I use at work</h3>
+    <div display="flex">
+        <img src="https://img.shields.io/badge/Git-231F20?style=for-the-badge&logo=Apache%20Kafka&logoColor=white" />
+    </div>    
+</div>
+    
 
 <br/>
 <hr/>
