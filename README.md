@@ -53,6 +53,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/NewRelic-008C99?style=for-the-badge&logo=New%20Relic&logoColor=white" />
         <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=Datadog&logoColor=white" />
         <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" />
+        <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" />
 
 
 <br/>
